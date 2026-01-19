@@ -36,6 +36,11 @@ A comprehensive Flutter to-do list application demonstrating multiple Data Struc
 
 ---
 
+### Screen Shot 
+
+##Adding new task UI
+![image alt](https://github.com/sohaibahmedfarooqi8-sudo/DSA_APP-Flutter-Dart-/blob/ff3169bce4c9d00c3431a337d365f20ee58416e7/WhatsApp%20Image%202025-12-08%20at%2012.07.03%20AM%2C%2C%2C%2C%2C%2C%2C%2C.jpeg)
+
 ### Algorithm Implementations
 
 #### Sorting Algorithms
